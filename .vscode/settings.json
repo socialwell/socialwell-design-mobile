@@ -1,0 +1,6 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "typescript.reportStyleChecksAsWarnings": false,
+    "editor.formatOnSave": true,
+    "javascript.format.enable": false
+}
