@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* socialwell_mobile_boilerplateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* socialwell_mobile_boilerplateTests.m */; };
-		0C80B921A6F3F58F76C31292 /* libPods-socialwell_mobile_boilerplate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-socialwell_mobile_boilerplate.a */; };
+		00E356F31AD99517003FC87E /* socialwell-design-mobileTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* socialwell-design-mobileTests.m */; };
+		0C80B921A6F3F58F76C31292 /* libPods-socialwell-design-mobile.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-socialwell-design-mobile.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		7699B88040F8A987B510C191 /* libPods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.a */; };
+		7699B88040F8A987B510C191 /* libPods-socialwell-design-mobile-socialwell-design-mobileTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-socialwell-design-mobile-socialwell-design-mobileTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		3FB31C67A91042A88A57084F /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01D6E0497D6A40FCBB1F0C53 /* Inter-Black.ttf */; };
 		A7668A9550B648A9A1514871 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8DFD0F6100DA4C79A73599F0 /* Inter-Bold.ttf */; };
@@ -36,27 +36,27 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = socialwell_mobile_boilerplate;
+			remoteInfo = socialwell-design-mobile;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* socialwell_mobile_boilerplateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = socialwell_mobile_boilerplateTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* socialwell-design-mobileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = socialwell-design-mobileTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* socialwell_mobile_boilerplateTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = socialwell_mobile_boilerplateTests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* socialwell_mobile_boilerplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = socialwell_mobile_boilerplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = socialwell_mobile_boilerplate/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = socialwell_mobile_boilerplate/AppDelegate.mm; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = socialwell_mobile_boilerplate/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = socialwell_mobile_boilerplate/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = socialwell_mobile_boilerplate/main.m; sourceTree = "<group>"; };
-		19F6CBCC0A4E27FBF8BF4A61 /* libPods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3B4392A12AC88292D35C810B /* Pods-socialwell_mobile_boilerplate.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-socialwell_mobile_boilerplate.debug.xcconfig"; path = "Target Support Files/Pods-socialwell_mobile_boilerplate/Pods-socialwell_mobile_boilerplate.debug.xcconfig"; sourceTree = "<group>"; };
-		5709B34CF0A7D63546082F79 /* Pods-socialwell_mobile_boilerplate.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-socialwell_mobile_boilerplate.release.xcconfig"; path = "Target Support Files/Pods-socialwell_mobile_boilerplate/Pods-socialwell_mobile_boilerplate.release.xcconfig"; sourceTree = "<group>"; };
-		5B7EB9410499542E8C5724F5 /* Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.debug.xcconfig"; path = "Target Support Files/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-socialwell_mobile_boilerplate.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-socialwell_mobile_boilerplate.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = socialwell_mobile_boilerplate/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		89C6BE57DB24E9ADA2F236DE /* Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.release.xcconfig"; path = "Target Support Files/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.release.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* socialwell-design-mobileTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = socialwell-design-mobileTests.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* socialwell-design-mobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = socialwell-design-mobile.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = socialwell-design-mobile/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = socialwell-design-mobile/AppDelegate.mm; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = socialwell-design-mobile/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = socialwell-design-mobile/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = socialwell-design-mobile/main.m; sourceTree = "<group>"; };
+		19F6CBCC0A4E27FBF8BF4A61 /* libPods-socialwell-design-mobile-socialwell-design-mobileTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-socialwell-design-mobile-socialwell-design-mobileTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B4392A12AC88292D35C810B /* Pods-socialwell-design-mobile.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-socialwell-design-mobile.debug.xcconfig"; path = "Target Support Files/Pods-socialwell-design-mobile/Pods-socialwell-design-mobile.debug.xcconfig"; sourceTree = "<group>"; };
+		5709B34CF0A7D63546082F79 /* Pods-socialwell-design-mobile.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-socialwell-design-mobile.release.xcconfig"; path = "Target Support Files/Pods-socialwell-design-mobile/Pods-socialwell-design-mobile.release.xcconfig"; sourceTree = "<group>"; };
+		5B7EB9410499542E8C5724F5 /* Pods-socialwell-design-mobile-socialwell-design-mobileTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-socialwell-design-mobile-socialwell-design-mobileTests.debug.xcconfig"; path = "Target Support Files/Pods-socialwell-design-mobile-socialwell-design-mobileTests/Pods-socialwell-design-mobile-socialwell-design-mobileTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5DCACB8F33CDC322A6C60F78 /* libPods-socialwell-design-mobile.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-socialwell-design-mobile.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = socialwell-design-mobile/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		89C6BE57DB24E9ADA2F236DE /* Pods-socialwell-design-mobile-socialwell-design-mobileTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-socialwell-design-mobile-socialwell-design-mobileTests.release.xcconfig"; path = "Target Support Files/Pods-socialwell-design-mobile-socialwell-design-mobileTests/Pods-socialwell-design-mobile-socialwell-design-mobileTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		01D6E0497D6A40FCBB1F0C53 /* Inter-Black.ttf */ = {isa = PBXFileReference; name = "Inter-Black.ttf"; path = "../assets/fonts/Inter-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		8DFD0F6100DA4C79A73599F0 /* Inter-Bold.ttf */ = {isa = PBXFileReference; name = "Inter-Bold.ttf"; path = "../assets/fonts/Inter-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
@@ -79,7 +79,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7699B88040F8A987B510C191 /* libPods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.a in Frameworks */,
+				7699B88040F8A987B510C191 /* libPods-socialwell-design-mobile-socialwell-design-mobileTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -87,20 +87,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-socialwell_mobile_boilerplate.a in Frameworks */,
+				0C80B921A6F3F58F76C31292 /* libPods-socialwell-design-mobile.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* socialwell_mobile_boilerplateTests */ = {
+		00E356EF1AD99517003FC87E /* socialwell-design-mobileTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* socialwell_mobile_boilerplateTests.m */,
+				00E356F21AD99517003FC87E /* socialwell-design-mobileTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = socialwell_mobile_boilerplateTests;
+			path = socialwell-design-mobileTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -111,7 +111,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* socialwell_mobile_boilerplate */ = {
+		13B07FAE1A68108700A75B9A /* socialwell-design-mobile */ = {
 			isa = PBXGroup;
 			children = (
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
@@ -121,15 +121,15 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = socialwell_mobile_boilerplate;
+			name = socialwell-design-mobile;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-socialwell_mobile_boilerplate.a */,
-				19F6CBCC0A4E27FBF8BF4A61 /* libPods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.a */,
+				5DCACB8F33CDC322A6C60F78 /* libPods-socialwell-design-mobile.a */,
+				19F6CBCC0A4E27FBF8BF4A61 /* libPods-socialwell-design-mobile-socialwell-design-mobileTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -144,9 +144,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* socialwell_mobile_boilerplate */,
+				13B07FAE1A68108700A75B9A /* socialwell-design-mobile */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* socialwell_mobile_boilerplateTests */,
+				00E356EF1AD99517003FC87E /* socialwell-design-mobileTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
@@ -160,8 +160,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* socialwell_mobile_boilerplate.app */,
-				00E356EE1AD99517003FC87E /* socialwell_mobile_boilerplateTests.xctest */,
+				13B07F961A680F5B00A75B9A /* socialwell-design-mobile.app */,
+				00E356EE1AD99517003FC87E /* socialwell-design-mobileTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -169,10 +169,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B4392A12AC88292D35C810B /* Pods-socialwell_mobile_boilerplate.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-socialwell_mobile_boilerplate.release.xcconfig */,
-				5B7EB9410499542E8C5724F5 /* Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.debug.xcconfig */,
-				89C6BE57DB24E9ADA2F236DE /* Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.release.xcconfig */,
+				3B4392A12AC88292D35C810B /* Pods-socialwell-design-mobile.debug.xcconfig */,
+				5709B34CF0A7D63546082F79 /* Pods-socialwell-design-mobile.release.xcconfig */,
+				5B7EB9410499542E8C5724F5 /* Pods-socialwell-design-mobile-socialwell-design-mobileTests.debug.xcconfig */,
+				89C6BE57DB24E9ADA2F236DE /* Pods-socialwell-design-mobile-socialwell-design-mobileTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -202,9 +202,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* socialwell_mobile_boilerplateTests */ = {
+		00E356ED1AD99517003FC87E /* socialwell-design-mobileTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "socialwell_mobile_boilerplateTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "socialwell-design-mobileTests" */;
 			buildPhases = (
 				A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -218,14 +218,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = socialwell_mobile_boilerplateTests;
-			productName = socialwell_mobile_boilerplateTests;
-			productReference = 00E356EE1AD99517003FC87E /* socialwell_mobile_boilerplateTests.xctest */;
+			name = socialwell-design-mobileTests;
+			productName = socialwell-design-mobileTests;
+			productReference = 00E356EE1AD99517003FC87E /* socialwell-design-mobileTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* socialwell_mobile_boilerplate */ = {
+		13B07F861A680F5B00A75B9A /* socialwell-design-mobile */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "socialwell_mobile_boilerplate" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "socialwell-design-mobile" */;
 			buildPhases = (
 				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -240,9 +240,9 @@
 			);
 			dependencies = (
 			);
-			name = socialwell_mobile_boilerplate;
-			productName = socialwell_mobile_boilerplate;
-			productReference = 13B07F961A680F5B00A75B9A /* socialwell_mobile_boilerplate.app */;
+			name = socialwell-design-mobile;
+			productName = socialwell-design-mobile;
+			productReference = 13B07F961A680F5B00A75B9A /* socialwell-design-mobile.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -262,7 +262,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "socialwell_mobile_boilerplate" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "socialwell-design-mobile" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -275,8 +275,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* socialwell_mobile_boilerplate */,
-				00E356ED1AD99517003FC87E /* socialwell_mobile_boilerplateTests */,
+				13B07F861A680F5B00A75B9A /* socialwell-design-mobile */,
+				00E356ED1AD99517003FC87E /* socialwell-design-mobileTests */,
 			);
 		};
 /* End PBXProject section */
@@ -337,15 +337,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate/Pods-socialwell_mobile_boilerplate-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile/Pods-socialwell-design-mobile-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate/Pods-socialwell_mobile_boilerplate-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile/Pods-socialwell-design-mobile-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate/Pods-socialwell_mobile_boilerplate-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile/Pods-socialwell-design-mobile-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
@@ -363,7 +363,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-socialwell-design-mobile-socialwell-design-mobileTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -385,7 +385,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-socialwell_mobile_boilerplate-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-socialwell-design-mobile-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -398,15 +398,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile-socialwell-design-mobileTests/Pods-socialwell-design-mobile-socialwell-design-mobileTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile-socialwell-design-mobileTests/Pods-socialwell-design-mobile-socialwell-design-mobileTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile-socialwell-design-mobileTests/Pods-socialwell-design-mobile-socialwell-design-mobileTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
@@ -415,15 +415,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate/Pods-socialwell_mobile_boilerplate-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile/Pods-socialwell-design-mobile-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate/Pods-socialwell_mobile_boilerplate-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile/Pods-socialwell-design-mobile-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate/Pods-socialwell_mobile_boilerplate-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile/Pods-socialwell-design-mobile-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */ = {
@@ -432,15 +432,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile-socialwell-design-mobileTests/Pods-socialwell-design-mobile-socialwell-design-mobileTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile-socialwell-design-mobileTests/Pods-socialwell-design-mobile-socialwell-design-mobileTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests/Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-socialwell-design-mobile-socialwell-design-mobileTests/Pods-socialwell-design-mobile-socialwell-design-mobileTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -469,7 +469,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* socialwell_mobile_boilerplateTests.m in Sources */,
+				00E356F31AD99517003FC87E /* socialwell-design-mobileTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -487,7 +487,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* socialwell_mobile_boilerplate */;
+			target = 13B07F861A680F5B00A75B9A /* socialwell-design-mobile */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -495,14 +495,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.debug.xcconfig */;
+			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-socialwell-design-mobile-socialwell-design-mobileTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = socialwell_mobile_boilerplateTests/Info.plist;
+				INFOPLIST_FILE = socialwell-design-mobileTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -516,17 +516,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/socialwell_mobile_boilerplate.app/socialwell_mobile_boilerplate";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/socialwell-design-mobile.app/socialwell-design-mobile";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-socialwell_mobile_boilerplate-socialwell_mobile_boilerplateTests.release.xcconfig */;
+			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-socialwell-design-mobile-socialwell-design-mobileTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = socialwell_mobile_boilerplateTests/Info.plist;
+				INFOPLIST_FILE = socialwell-design-mobileTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -540,19 +540,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/socialwell_mobile_boilerplate.app/socialwell_mobile_boilerplate";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/socialwell-design-mobile.app/socialwell-design-mobile";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-socialwell_mobile_boilerplate.debug.xcconfig */;
+			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-socialwell-design-mobile.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = socialwell_mobile_boilerplate/Info.plist;
+				INFOPLIST_FILE = socialwell-design-mobile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -563,7 +563,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = socialwell_mobile_boilerplate;
+				PRODUCT_NAME = socialwell-design-mobile;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -572,12 +572,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-socialwell_mobile_boilerplate.release.xcconfig */;
+			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-socialwell-design-mobile.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = socialwell_mobile_boilerplate/Info.plist;
+				INFOPLIST_FILE = socialwell-design-mobile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -588,7 +588,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = socialwell_mobile_boilerplate;
+				PRODUCT_NAME = socialwell-design-mobile;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -732,7 +732,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "socialwell_mobile_boilerplateTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "socialwell-design-mobileTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -741,7 +741,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "socialwell_mobile_boilerplate" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "socialwell-design-mobile" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -750,7 +750,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "socialwell_mobile_boilerplate" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "socialwell-design-mobile" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

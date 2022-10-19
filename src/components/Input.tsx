@@ -1,5 +1,5 @@
 import React from 'react';
-import {StyleSheet, View, ColorValue, Image, TextInput} from 'react-native';
+import {ColorValue, Image, StyleSheet, TextInput, View} from 'react-native';
 
 const icon = require('../../assets/image/reactLight.png');
 interface Props {

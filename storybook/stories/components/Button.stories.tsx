@@ -1,10 +1,10 @@
-import React from 'react';
-import {storiesOf} from '@storybook/react-native';
 import {action} from '@storybook/addon-actions';
-import {text, color, boolean} from '@storybook/addon-knobs';
+import {boolean, color, text} from '@storybook/addon-knobs';
+import {storiesOf} from '@storybook/react-native';
+import React from 'react';
+import {StyleSheet, View} from 'react-native';
 
 import Button from '../../../src/components/Button';
-import {StyleSheet, View} from 'react-native';
 
 storiesOf('Button', module)
   .add('Default', () => (

@@ -1,5 +1,5 @@
 import React from 'react';
-import {Text, View, StyleSheet} from 'react-native';
+import {StyleSheet, Text, View} from 'react-native';
 import Tooltip from 'react-native-walkthrough-tooltip';
 interface Props {
   text: string;
@@ -19,7 +19,6 @@ function CustomToolTip({text, position, visible}: Props) {
             <Text style={styles.text}>{text}</Text>
           </View>
         }
-        placement={position}
         onClose={() => setVisible(false)}
       />
     </View>

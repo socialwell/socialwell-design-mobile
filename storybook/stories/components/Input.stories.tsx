@@ -1,9 +1,9 @@
-import React from 'react';
-import {storiesOf} from '@storybook/react-native';
 import {color} from '@storybook/addon-knobs';
+import {storiesOf} from '@storybook/react-native';
+import React from 'react';
+import {StyleSheet, View} from 'react-native';
 
 import Input from '../../../src/components/Input';
-import {StyleSheet, View} from 'react-native';
 
 storiesOf('Input', module)
   .add('Default', () => (

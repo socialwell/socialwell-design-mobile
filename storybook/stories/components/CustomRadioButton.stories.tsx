@@ -1,9 +1,8 @@
-import React from 'react';
 import {storiesOf} from '@storybook/react-native';
+import React from 'react';
+import {StyleSheet, View} from 'react-native';
 
 import CustomRadioButton from '../../../src/components/CustomRadioButton';
-
-import {View, StyleSheet} from 'react-native';
 
 storiesOf('CustomRadioButton', module)
   .add('Default', () => (

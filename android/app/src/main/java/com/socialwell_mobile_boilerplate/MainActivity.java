@@ -1,4 +1,4 @@
-package com.socialwell_mobile_boilerplate;
+package com.socialwell-design-mobile;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -12,7 +12,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "socialwell_mobile_boilerplate";
+    return "socialwell-design-mobile";
   }
 
   /**

@@ -1,10 +1,10 @@
 import React from 'react';
 import {
+  ColorValue,
+  Image,
   StyleSheet,
   TouchableOpacity,
   ViewStyle,
-  ColorValue,
-  Image,
 } from 'react-native';
 const icon = require('../../assets/image/reactDark.png');
 

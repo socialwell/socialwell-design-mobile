@@ -1,6 +1,5 @@
 import React from 'react';
-import {StyleSheet, Image, View} from 'react-native';
-
+import {Image, StyleSheet, View} from 'react-native';
 import {Avatar} from 'react-native-paper';
 
 interface Props {

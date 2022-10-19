@@ -1,7 +1,8 @@
-import React from 'react';
 import {storiesOf} from '@storybook/react-native';
-import SelectDropDown from '../../../src/components/SelectDropDown';
+import React from 'react';
 import {StyleSheet, View} from 'react-native';
+
+import SelectDropDown from '../../../src/components/SelectDropDown';
 
 const data = [
   {id: 1, type: 'Hello'},

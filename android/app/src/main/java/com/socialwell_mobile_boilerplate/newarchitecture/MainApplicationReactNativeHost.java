@@ -1,4 +1,4 @@
-package com.socialwell_mobile_boilerplate.newarchitecture;
+package com.socialwell-design-mobile.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.socialwell_mobile_boilerplate.BuildConfig;
-import com.socialwell_mobile_boilerplate.newarchitecture.components.MainComponentsRegistry;
-import com.socialwell_mobile_boilerplate.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.socialwell-design-mobile.BuildConfig;
+import com.socialwell-design-mobile.newarchitecture.components.MainComponentsRegistry;
+import com.socialwell-design-mobile.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.socialwell_mobile_boilerplate.newarchitecture.components;
+package com.socialwell-design-mobile.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

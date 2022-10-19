@@ -1,12 +1,12 @@
+import React from 'react';
 import {
-  TextInput,
+  ColorValue,
   KeyboardTypeOptions,
   StyleSheet,
-  ViewStyle,
+  TextInput,
   View,
-  ColorValue,
+  ViewStyle,
 } from 'react-native';
-import React from 'react';
 
 export type InputVersion = 'default' | 'inverted' | 'outline';
 

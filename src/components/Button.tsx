@@ -1,11 +1,11 @@
 import React from 'react';
 import {
-  StyleSheet,
-  Image,
-  TouchableOpacity,
-  Text,
-  ViewStyle,
   ColorValue,
+  Image,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  ViewStyle,
 } from 'react-native';
 const icons = require('../../assets/image/react.png');
 interface Props {

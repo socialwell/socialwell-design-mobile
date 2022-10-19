@@ -1,9 +1,9 @@
-import React from 'react';
+import {boolean, color, text} from '@storybook/addon-knobs';
 import {storiesOf} from '@storybook/react-native';
-import {text, color, boolean} from '@storybook/addon-knobs';
+import React from 'react';
+import {StyleSheet, View} from 'react-native';
 
 import CustomAlert2 from '../../../src/components/CustomAlert2';
-import {StyleSheet, View} from 'react-native';
 
 storiesOf('CustomAlert2', module)
   .add('warning', () => (

@@ -1,5 +1,5 @@
 import React from 'react';
-import {StyleSheet, Image} from 'react-native';
+import {Image, StyleSheet} from 'react-native';
 import SelectDropdown from 'react-native-select-dropdown';
 const down = require('../../assets/image/down.png');
 

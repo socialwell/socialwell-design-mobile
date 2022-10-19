@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {StyleSheet, TouchableOpacity, Switch} from 'react-native';
+import {StyleSheet, Switch, TouchableOpacity} from 'react-native';
 
 interface Props {
   onPress: () => void;

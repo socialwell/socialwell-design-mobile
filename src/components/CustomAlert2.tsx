@@ -1,12 +1,12 @@
 import React, {useState} from 'react';
 import {
-  StyleSheet,
-  Modal,
-  TouchableOpacity,
-  Text,
-  View,
   ColorValue,
   Image,
+  Modal,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  View,
 } from 'react-native';
 const close = require('../../assets/image/closeIcon.png');
 const warning = require('../../assets/image/warning.png');

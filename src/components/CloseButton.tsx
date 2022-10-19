@@ -1,10 +1,10 @@
 import React from 'react';
 import {
+  ColorValue,
+  Image,
   StyleSheet,
   TouchableOpacity,
-  Image,
   ViewStyle,
-  ColorValue,
 } from 'react-native';
 const closeIcon = require('../../assets/image/closeIcon.png');
 interface Props {

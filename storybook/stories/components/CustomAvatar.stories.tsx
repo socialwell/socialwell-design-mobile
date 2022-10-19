@@ -1,7 +1,8 @@
-import React from 'react';
 import {storiesOf} from '@storybook/react-native';
-import CustomAvatar from '../../../src/components/CustomAvatar';
+import React from 'react';
 import {StyleSheet, View} from 'react-native';
+
+import CustomAvatar from '../../../src/components/CustomAvatar';
 const user = require('../../../assets/image/userPhoto.png');
 
 storiesOf('CustomAvatar', module)

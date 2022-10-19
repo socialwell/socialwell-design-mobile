@@ -6,7 +6,6 @@
 function loadStories() {
   require('./stories/components/Badge.stories');
   require('./stories/components/Button.stories');
-  require('./stories/components/CloseButton.stories');
   require('./stories/components/CustomAlert.stories');
   require('./stories/components/CustomAlert2.stories');
   require('./stories/components/CustomAvatar.stories');
@@ -25,7 +24,6 @@ function loadStories() {
 const stories = [
   './stories/components/Badge.stories',
   './stories/components/Button.stories',
-  './stories/components/CloseButton.stories',
   './stories/components/CustomAlert.stories',
   './stories/components/CustomAlert2.stories',
   './stories/components/CustomAvatar.stories',

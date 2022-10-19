@@ -1,9 +1,9 @@
-import React from 'react';
-import {storiesOf} from '@storybook/react-native';
 import {action} from '@storybook/addon-actions';
+import {storiesOf} from '@storybook/react-native';
+import React from 'react';
+import {StyleSheet, View} from 'react-native';
 
 import Switch from '../../../src/components/Switch';
-import {View, StyleSheet} from 'react-native';
 
 storiesOf('Switch', module)
   .add('Default', () => (

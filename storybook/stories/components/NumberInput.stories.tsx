@@ -1,9 +1,9 @@
-import React from 'react';
-import {storiesOf} from '@storybook/react-native';
 import {action} from '@storybook/addon-actions';
+import {storiesOf} from '@storybook/react-native';
+import React from 'react';
+import {StyleSheet, View} from 'react-native';
 
 import NumberInput from '../../../src/components/NumberInput';
-import {StyleSheet, View} from 'react-native';
 
 storiesOf('NumberInput', module)
   .add('Default', () => (

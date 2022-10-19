@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "socialwell_mobile_boilerplate.app"
-               BlueprintName = "socialwell_mobile_boilerplate"
-               ReferencedContainer = "container:socialwell_mobile_boilerplate.xcodeproj">
+               BuildableName = "socialwell-design-mobile.app"
+               BlueprintName = "socialwell-design-mobile"
+               ReferencedContainer = "container:socialwell-design-mobile.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "socialwell_mobile_boilerplateTests.xctest"
-               BlueprintName = "socialwell_mobile_boilerplateTests"
-               ReferencedContainer = "container:socialwell_mobile_boilerplate.xcodeproj">
+               BuildableName = "socialwell-design-mobileTests.xctest"
+               BlueprintName = "socialwell-design-mobileTests"
+               ReferencedContainer = "container:socialwell-design-mobile.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "socialwell_mobile_boilerplate.app"
-            BlueprintName = "socialwell_mobile_boilerplate"
-            ReferencedContainer = "container:socialwell_mobile_boilerplate.xcodeproj">
+            BuildableName = "socialwell-design-mobile.app"
+            BlueprintName = "socialwell-design-mobile"
+            ReferencedContainer = "container:socialwell-design-mobile.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "socialwell_mobile_boilerplate.app"
-            BlueprintName = "socialwell_mobile_boilerplate"
-            ReferencedContainer = "container:socialwell_mobile_boilerplate.xcodeproj">
+            BuildableName = "socialwell-design-mobile.app"
+            BlueprintName = "socialwell-design-mobile"
+            ReferencedContainer = "container:socialwell-design-mobile.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

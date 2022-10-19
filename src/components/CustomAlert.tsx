@@ -1,11 +1,11 @@
 import React, {useState} from 'react';
 import {
-  StyleSheet,
-  Modal,
-  TouchableOpacity,
-  Text,
-  View,
   Image,
+  Modal,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  View,
 } from 'react-native';
 const close = require('../../assets/image/closeIcon.png');
 interface Props {

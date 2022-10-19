@@ -1,10 +1,10 @@
 import React from 'react';
 import {
-  StyleSheet,
-  TouchableOpacity,
-  Text,
-  ViewStyle,
   ColorValue,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  ViewStyle,
 } from 'react-native';
 
 interface Props {

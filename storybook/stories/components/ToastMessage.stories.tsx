@@ -1,9 +1,9 @@
-import React from 'react';
+import {color, text} from '@storybook/addon-knobs';
 import {storiesOf} from '@storybook/react-native';
-import {text, color} from '@storybook/addon-knobs';
+import React from 'react';
+import {StyleSheet, View} from 'react-native';
 
 import ToastMessage from '../../../src/components/ToastMessage';
-import {View, StyleSheet} from 'react-native';
 
 storiesOf('ToastMessage', module)
   .add('Default', () => (

@@ -5,7 +5,10 @@
     "tslint-config-standard",
     "tslint-react",
     "tslint-config-prettier",
-    "tslint-react-native"
+    "tslint-react-native",
+    "eslint:recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended"
   ],
   "jsRules": {},
   "rules": {
@@ -14,7 +17,9 @@
     "member-ordering": false,
     "jsx-no-lambda": false,
     "jsx-boolean-value": false,
-    "no-unused-styles": true
+    "no-unused-styles": false,
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": ["error"]
   },
   "rulesDirectory": []
 }

@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.socialwell_mobile_boilerplate",
+    package = "com.socialwell-design-mobile",
 )
 
 android_resource(
     name = "res",
-    package = "com.socialwell_mobile_boilerplate",
+    package = "com.socialwell-design-mobile",
     res = "src/main/res",
 )
 
